@@ -87,7 +87,7 @@ button:focus {
   outline: 0;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 450px) {
   .currency input {
     width: 200px;
   }
